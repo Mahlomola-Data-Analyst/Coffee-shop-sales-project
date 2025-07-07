@@ -26,9 +26,11 @@ The original data was collected from Point of Sale (POS) system. Exported to Exc
 •Store performance level
 
 ## Key insights
-•Morning drives the highest sales across all the stores
-•Monday is our top reveue day with weekends days such as Saturday and Sunday being the least performing days.
-•The product are divided into three sub categories the core revenue drivers, balanced performers and premium products.
+•Morning drives the highest sales across all the stores with 54,82% followed by afternoon with 27,79% and evening being the  least with 15,38%
+•Monday is our top reveue day  with 14,56%  Saturday and Sunday being the least performing days.
+•Coffee is are most revenue generating product category accounting a whooping 37,53%  of our total revenue.
+•Monthly revenue has been increasing following a decline of 6,65% in  February showing strong operational efficiency with an increase of 21,11% in March, 45,72% in April, 92,10% in May and 103,89%
+•Revenue contributions across all stores are almost equal with Hell's Kitchen leading by 33,81%, followed by Astoria with 33,25% and Lower Manhattan with 32,94%
 
 ## Recommendations 
 •Focus operations and promotions on 'mornimg peak hours).
