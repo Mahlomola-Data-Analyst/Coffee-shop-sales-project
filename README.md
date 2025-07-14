@@ -33,7 +33,7 @@ The original data was collected from Point of Sale (POS) system. Exported to Exc
 •Revenue contributions across all stores are almost equal with Hell's Kitchen leading by 33,81%, followed by Astoria with 33,25% and Lower Manhattan with 32,94%
 
 ## Recommendations 
-• As our top revenue generating product category, heavily promote coffee during morning campgains when the demand is high. 
+•As our top revenue generating product category, heavily promote coffee during morning campgains when the demand is high. 
 •Ensure that during peak morning hours there is appropriate staffing and products are fully stocked and readily available, to align inventory with expected sales. 
 •To maximise performance on Monday offer incentive for returning  or loyal customers such as loyal customer promotions and also ensure that top staff are on duty to maintain pleasant experience for regular customers. 
 •To boost sales on weekends introduce weekends only speacials. 
